@@ -1,0 +1,384 @@
+{
+  "access_points": {
+    "access_points_wifi_7": {
+      "products": [
+        {
+          "model": "EAP773",
+          "title": "Access Point Wi-Fi 7 Tri-Band BE11000 de Teto",
+          "specs": [
+            "5760 Mbps (6 GHz) + 4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz)",
+            "Wi-Fi 7 na banda de 6 GHz",
+            "1× Porta 10G",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/220_%C3%97_220_%C3%97_32.5_mm%EF%BC%88wifi_7%EF%BC%89_normal_20231207103437r.png",
+            "https://static.tp-link.com/upload/image-line/2_normal_20230808062720p.jpg",
+            "https://static.tp-link.com/upload/image-line/3_normal_20230808062720d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wifi7/eap773/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202403/20240305/Datasheet_EAP773.pdf"
+        },
+        {
+          "model": "EAP772",
+          "title": "Access Point Wi-Fi 7 Tri-Band BE11000 para montagem no Teto",
+          "specs": [
+            "5760 Mbps (6 GHz) +4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz)",
+            "Tecnologia Wi-Fi 7 (160 MHz, 4K-QAM, MLO, Multi-RUs)",
+            "1× POrta 2.5G ",
+            "Suporta PoE",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_01_normal_20240329021449n.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_02_normal_20240329021412t.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_03_normal_20240329021425d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wifi7/eap772/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240408/Datasheet_EAP772.pdf"
+        }
+      ]
+    },
+    "access_points_de_teto": {
+      "products": [
+        {
+          "model": "EAP773",
+          "title": "Access Point Wi-Fi 7 Tri-Band BE11000 de Teto",
+          "specs": [
+            "5760 Mbps (6 GHz) + 4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz)",
+            "Wi-Fi 7 na banda de 6 GHz",
+            "1× Porta 10G",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/220_%C3%97_220_%C3%97_32.5_mm%EF%BC%88wifi_7%EF%BC%89_normal_20231207103437r.png",
+            "https://static.tp-link.com/upload/image-line/2_normal_20230808062720p.jpg",
+            "https://static.tp-link.com/upload/image-line/3_normal_20230808062720d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap773/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202403/20240305/Datasheet_EAP773.pdf"
+        },
+        {
+          "model": "EAP660 HD",
+          "title": "Access Point Wi-Fi 6 Dual Band AX3600 de Teto",
+          "specs": [
+            "1× Porta Ethernet 2.5 G",
+            "1148 Mbps a 2.4 GHz + 2402 Mbps a 5 GHz",
+            "Conectividade de Alta Densidade",
+            "802.3at PoE",
+            "Integração Perfeita da Plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP650_UN_1.0_normal_20230830071739l.png",
+            "https://static.tp-link.com/upload/image-line/02_normal_20230908023241y.jpg",
+            "https://static.tp-link.com/upload/image-line/660_HD_V2.0_normal_20230908040623v.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap660-hd/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202407/20240705/Datasheet_EAP660%20HD_v2.pdf"
+        },
+        {
+          "model": "EAP670",
+          "title": "Access Point Wi-Fi 6 Dual Band AX5400 de Teto",
+          "specs": [
+            "574 Mbps em 2.4GHz + 4804 Mbps em 5 GHz",
+            "Wi-Fi 6 de Alta Eficiência",
+            "802.3at PoE+ e Alimentação por CC",
+            "Roaming Sem Interrupções",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP650_UN_1.0_normal_20230830071555o.png",
+            "https://static.tp-link.com/upload/image-line/3_normal_20230908060222y.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP670_V2_normal_20230908063356m.png"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap670/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202309/20230913/Datasheet_EAP670.pdf"
+        },
+        {
+          "model": "EAP650",
+          "title": "Access Point Wi-Fi 6 de montagem de teto AX3000",
+          "specs": [
+            "574 Mbps a 2,4 GHz + 2402 Mbps a 5 GHz",
+            "WiFi 6 de Alta Eficiência",
+            "802.3at PoE+ e fonte de alimentação DC",
+            "Mesh e Roaming Contínuo",
+            "Gerenciamento em Nuvem Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP650_UN_1.0_normal_20230821085335h.png",
+            "https://static.tp-link.com/upload/image-line/EAP650_V1_Omada_AX3000_Business_WiFi_6_2_normal_20211210073117n.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP650_V1_Omada_AX3000_Business_WiFi_6_3_normal_20211210073124a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap650/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202308/20230824/Datasheet_EAP650%20V2&V1.pdf"
+        },
+        {
+          "model": "EAP620 HD",
+          "title": "Access Point Wi-Fi 6 Dual Band AX1800 de Teto",
+          "specs": [
+            "574 Mbps a 2,4 GHz + 1201 Mbps a 5 GHz",
+            "Conectividade de Alta Densidade",
+            "802.3 em PoE",
+            "Roaming Contínuo",
+            "Integração perfeita da plataforma Omada SDN§"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/EAP660-HDCnormal_1586482811751g.jpg",
+            "https://static.tp-link.com/EAP660-HD3normal_1586482812318l.jpg",
+            "https://static.tp-link.com/EAP620_HD_UN_1.0_4_normal_1592819471059c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap620-hd/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202407/20240715/SSH%20Commands%20Guide%20for%20EAPs.pdf"
+        },
+        {
+          "model": "EAP245",
+          "title": "Access Point Wi-Fi 5 Dual Band AC1750 de Teto",
+          "specs": [
+            "2× Portas Gigabit Ethernet",
+            "450 Mbps em 2.4GHz e 1300 Mbps em 5 GHz",
+            "802.3af/at PoE e Passivo PoE",
+            "3× Antenas Internas",
+            "Integração perfeita da plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/EAP245_EU_3.0_01_normal_1533284008713y.jpg",
+            "https://static.tp-link.com/EAP245_EU_3.0_02_normal_1533284027524j.jpg",
+            "https://static.tp-link.com/EAP245_EU_3.0_03_normal_1533284039147r.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap245/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202408/20240822/Datasheet_Ceiling%20Mount%20Wi-Fi%204%20&%20Wi-Fi%205%20AP.pdf"
+        },
+        {
+          "model": "EAP610",
+          "title": "Access Point Wi-Fi 6 Dual Band AX1800 de Teto",
+          "specs": [
+            "74 Mbps a 2,4 GHz + 1201 Mbps a 5 GHz",
+            "Wi-Fi 6 de Alta Eficiência ",
+            "802.3at PoE+ e Fonte de Alimentação DC",
+            "Roaming Contínuo",
+            "Gerenciamento Centralizado em Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP650_UN_2.0_normal_20231207025301g.png",
+            "https://static.tp-link.com/EAP610_2_AX1800_WIFI_6_Access_Point_Hotel_Network_normal_1623920921431b.jpg",
+            "https://static.tp-link.com/EAP610_3_AX1800_WIFI_6_Access_Point_School_network_normal_1623920932992b.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap610/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202409/20240926/7106511593_EAP610(BR)3.8_IG_V1.pdf"
+        },
+        {
+          "model": "EAP225",
+          "title": "Access Point Wi-Fi 5 Dual Band AC1350 de Teto",
+          "specs": [
+            "1× Porta Gigabit Ethernet",
+            "450 Mbps a 2.4 GHz + 867 Mbps a 5 GHz",
+            "PoE 802.3af e PoE passivo",
+            "3× Antenas Internas",
+            "Integração com a Plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/EAP225_EU_2.0_01_normal_1509499191892w.jpg",
+            "https://static.tp-link.com/EAP225_EU_2.0_02_normal_1509499465284g.jpg",
+            "https://static.tp-link.com/EAP225_EU_2.0_03_normal_1509499214903i.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap225/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202408/20240822/Datasheet_Ceiling%20Mount%20Wi-Fi%204%20&%20Wi-Fi%205%20AP.pdf"
+        },
+        {
+          "model": "EAP653",
+          "title": "Access Point Wi-Fi 6 Dual Band AX3000 de Teto",
+          "specs": [
+            "AX3000: 574 Mbps em 2.4 GHz + 2402 Mbps em 5 GHz",
+            "Wi-Fi 6 de alta eficiência",
+            "802.3at PoE+ e fonte de alimentação DC",
+            "Mesh e Roaming Contínuo",
+            "Gerenciamento Centralizado em Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/EAP650_UN_1.0_20230821091543d.png",
+            "https://static.tp-link.com/upload/image-line/EAP650_V1_Omada_AX3000_Business_WiFi_6_2_normal_20220416055506n.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP650_V1_Omada_AX3000_Business_WiFi_6_3_normal_20220416055506x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap653/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202406/20240628/Datasheet_EAP653.pdf"
+        }
+      ]
+    },
+    "access_points_de_parede": {
+      "products": [
+        {
+          "model": "EAP610GP-Desktop",
+          "title": "Access Point Wi-Fi 6 GPON Dual Band AX1800 de Parede e Mesa",
+          "specs": [
+            "Wi-Fi 6 sem interrupções com até 1,8 Gbps",
+            "1x Porta GPON para Rede Gigabit",
+            "Uma Fibra para Múltiplos Serviços",
+            "MU-MIMO, Roaming Sem Interrupções",
+            "PPSK, Múltiplos Portais",
+            "Montagem em Mesa e Parede",
+            "Gestão Centralizada"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP610GP-Desktop_UN_1.0_overview_01_normal_20240703084410q.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP610GP-Desktop_UN_1.0_overview_03_normal_20240703084434m.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP610GP-Desktop_UN_1.0_overview_02_normal_20240703084444l.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wall-plate/eap610gp-desktop/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240408/Datasheet_EAP610GP-Desktop.pdf"
+        },
+        {
+          "model": "EAP615GP-Wall",
+          "title": "Access Point Wi-Fi 6 GPON Dual Band AX1800 de Parede",
+          "specs": [
+            "Wi-Fi 6 sem interrupções com até 1,8 Gbps",
+            "1x Porta GPON para Rede Gigabit",
+            "Uma Fibra para Múltiplos Serviços",
+            "MU-MIMO, Roaming Sem Interrupções",
+            "PPSK, Múltiplos Portais",
+            "Montagem em Parede",
+            "Gestão Centralizada"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP615GP-Wall_UN_1.0_overview_01__normal_20240709021714y.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP615GP-Wall_UN_1.0_overview_02_normal_20240709021728g.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP615GP-Wall_UN_1.0_overview_03_normal_20240709021740u.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wall-plate/eap615gp-wall/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/1910013239_Wall%20Plate%20EAP_Overview%20of%20Regulatory%20Compliance_REV1.5.0.pdf"
+        },
+        {
+          "model": "EAP615-Wall",
+          "title": "Access Point Wi-Fi 6 Dual Band AX1800 de Parede",
+          "specs": [
+            "4&vezes; Porta Ethernet Gigabit (1× Uplink + 3× Downlink)",
+            "574 Mbps em 2,4 GHz + 1201 Mbps em 5 GHz",
+            "802.3at/af PoE",
+            "Compatível com 86mm & UE & Caixa de junção padrão dos EUA",
+            "Integração perfeita da plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP615_Wall_1.0_normal_20230821085031m.png",
+            "https://static.tp-link.com/upload/image-line/EAP615_Wall_1.0_02_normal_20210827080306t.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP615_Wall_1.0_03_normal_20210827080338v.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wall-plate/eap615-wall/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202408/20240827/Datasheet_EAP615-Wall.pdf"
+        },
+        {
+          "model": "EAP235-Wall",
+          "title": "Access Point Wi-Fi 5 Dual Band AC1200 de Parede",
+          "specs": [
+            "4× Portas Gigabit Ethernet (1× Uplink + 3× Downlink)",
+            "300 Mbps em 2.4 GHz + 867 Mbps em 5 GHz",
+            "802.3at/af PoE",
+            "Compatível com caixa de junção padrão 4x2 BR, EU e EUA",
+            "Integração perfeita da plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP235_Wall_1.0_normal_20230821084725y.png",
+            "https://static.tp-link.com/EAP235_Wall_02_normal_1569203460000j.jpg",
+            "https://static.tp-link.com/EAP235_Wall_05_normal_1569203475260r.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wall-plate/eap235-wall/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202407/20240703/Datasheet_Wall%20Plate%20Wi-Fi%204%20&%20Wi-Fi%205%20AP.pdf"
+        },
+        {
+          "model": "EAP655-Wall",
+          "title": "Access Point Wi-Fi 6 Dual Band AX3000 de Parede",
+          "specs": [
+            "Wi-Fi 6 AX3000 (574 Mbps em 2.4 GHz + 2402 Mbps em 5 GHz)",
+            "3 Portas Gigabit Ethernet de Downlink, sendo uma com passagem PoE",
+            "802.3af/at PoE",
+            "Compatível com caixa de junção padrão de 86 mm e UE e EUA",
+            "Integrado com a Plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP655-Wall_US_1.0_normal_20230821092624g.png",
+            "https://static.tp-link.com/upload/image-line/EAP655-Wall_US_1.0_02_normal_20220602014412s.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP655-Wall_US_1.0_03_normal_20220602014424t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wall-plate/eap655-wall/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202408/20240809/Datasheet_EAP655-Wall.pdf"
+        }
+      ]
+    },
+    "access_points_outdoor": {
+      "products": [
+        {
+          "model": "EAP650-Outdoor",
+          "title": "Access Point Wi-Fi 6 Dual Band AX3000 Outdoor",
+          "specs": [
+            "574 Mbps em 2.4GHz + 2402 Mbps em 5 GHz",
+            "Tecnologia Mesh",
+            "Antenas Inteligentes",
+            "À prova d'água e à prova de poeira (IP67)",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP650-Outdoor_UN_1.0_normal_20230821093157k.png",
+            "https://static.tp-link.com/upload/image-line/Omada_EAP650-Outdoor_WiFi_6_Outdoor_Access_Point_Outdoor_WiFi_2_normal_20220829060341n.jpg",
+            "https://static.tp-link.com/upload/image-line/Omada_EAP650-Outdoor_WiFi_6_Outdoor_Access_Point_Outdoor_WiFi_3_normal_20220829060349h.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-outdoor/eap650-outdoor/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202308/20230824/Datasheet_EAP650-Outdoor%20V1.pdf"
+        },
+        {
+          "model": "EAP623-Outdoor HD",
+          "title": "Access Point Wi-Fi 6 Dual Band AX1800 Outdoor",
+          "specs": [
+            "574 Mbps em 2.4 GHz + 1201 Mbps em 5 GHz",
+            "Conectividade de Alta Densidade",
+            "Cobertura de Longo Alcance",
+            "Tecnologia de Malha",
+            "Antenas Inteligentes",
+            "À Prova d'Água e Poeira IP67",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP623-Outdoor_HD_UN_1.0_normal_20231207071508x.png",
+            "https://static.tp-link.com/upload/image-line/EAP623-Outdoor_HD_UN_1.0_02_normal_20231207071547y.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP623-Outdoor_HD_UN_1.0_03_normal_20231207071622w.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-outdoor/eap623-outdoor-hd/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202312/20231228/Datasheet_EAP623-Outdoor%20HD.pdf"
+        },
+        {
+          "model": "EAP225-Outdoor",
+          "title": "Access Point Wi-Fi 5 Dual Band AC1200 Outdoor",
+          "specs": [
+            "1× Porta Gigabit Ethernet",
+            "300 Mbps em 2.4GHz + 867 Mbps em 5 GHz",
+            "802.3af PoE e Passivo PoE",
+            "IP65 Resistente ao Clima",
+            "Integrado a Plataforma Omada SDN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP225-Outdoor_normal_20230821083554a.png",
+            "https://static.tp-link.com/EAP225-Outdoor%EF%BC%88EU)1.0_02_normal_1511141673569o.jpg",
+            "https://static.tp-link.com/EAP225-Outdoor%EF%BC%88EU)1.0_03_normal_1511225748511w.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-outdoor/eap225-outdoor/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202403/20240313/Datasheet_Wi-Fi%204%20&%20Wi-Fi%205%20Outdoor%20AP.pdf"
+        },
+        {
+          "model": "EAP610-Outdoor",
+          "title": "Access Point Wi-Fi 6 Dual Band AX1800 Outdoor",
+          "specs": [
+            "574 Mbps a 2,4 GHz + 1201 Mbps a 5 GHz",
+            "Tecnologia de malha",
+            "Roaming contínuo",
+            "IP67 Impermeável & À prova de poeira",
+            "Gerenciamento de nuvem centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP650-Outdoor_UN_1.0_normal_20230821092808q.png",
+            "https://static.tp-link.com/EAP610-Outdoor(UN_1.0_WiFi_6_Outdoor_Access_Point_2.2_Outdoor_WiFi_normal_1627383386188k.jpg",
+            "https://static.tp-link.com/EAP610-Outdoor(UN_1.0_WiFi_6_Outdoor_Access_Point_3_Outdoor_WiFi_normal_1622789585318y.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-outdoor/eap610-outdoor/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241025/Datasheet_EAP610-Outdoor%20V1.pdf"
+        }
+      ]
+    }
+  }
+}
