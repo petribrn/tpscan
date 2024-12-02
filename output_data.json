@@ -1,44 +1,5 @@
 {
   "access_points": {
-    "access_points_wifi_7": {
-      "products": [
-        {
-          "model": "EAP773",
-          "title": "Access Point Wi-Fi 7 Tri-Band BE11000 de Teto",
-          "specs": [
-            "5760 Mbps (6 GHz) + 4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz)",
-            "Wi-Fi 7 na banda de 6 GHz",
-            "1× Porta 10G",
-            "Gerenciamento centralizado"
-          ],
-          "thumbnails": [
-            "https://static.tp-link.com/upload/image-line/220_%C3%97_220_%C3%97_32.5_mm%EF%BC%88wifi_7%EF%BC%89_normal_20231207103437r.png",
-            "https://static.tp-link.com/upload/image-line/2_normal_20230808062720p.jpg",
-            "https://static.tp-link.com/upload/image-line/3_normal_20230808062720d.jpg"
-          ],
-          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wifi7/eap773/",
-          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202403/20240305/Datasheet_EAP773.pdf"
-        },
-        {
-          "model": "EAP772",
-          "title": "Access Point Wi-Fi 7 Tri-Band BE11000 para montagem no Teto",
-          "specs": [
-            "5760 Mbps (6 GHz) +4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz)",
-            "Tecnologia Wi-Fi 7 (160 MHz, 4K-QAM, MLO, Multi-RUs)",
-            "1× POrta 2.5G ",
-            "Suporta PoE",
-            "Gerenciamento Centralizado"
-          ],
-          "thumbnails": [
-            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_01_normal_20240329021449n.jpg",
-            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_02_normal_20240329021412t.jpg",
-            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_03_normal_20240329021425d.jpg"
-          ],
-          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wifi7/eap772/",
-          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240408/Datasheet_EAP772.pdf"
-        }
-      ]
-    },
     "access_points_de_teto": {
       "products": [
         {
@@ -56,7 +17,7 @@
             "https://static.tp-link.com/upload/image-line/3_normal_20230808062720d.jpg"
           ],
           "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap773/",
-          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202403/20240305/Datasheet_EAP773.pdf"
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202411/20241129/Datasheet_EAP773.pdf"
         },
         {
           "model": "EAP660 HD",
@@ -75,6 +36,24 @@
           ],
           "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap660-hd/",
           "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202407/20240705/Datasheet_EAP660%20HD_v2.pdf"
+        },
+        {
+          "model": "EAP772",
+          "title": "Access Point Wi-Fi 7 Tri-Band BE11000 para montagem no Teto",
+          "specs": [
+            "5760 Mbps (6 GHz) +4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz)",
+            "Tecnologia Wi-Fi 7 (160 MHz, 4K-QAM, MLO, Multi-RUs)",
+            "1× POrta 2.5G ",
+            "Suporta PoE",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_01_normal_20240329021449n.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_02_normal_20240329021412t.jpg",
+            "https://static.tp-link.com/upload/image-line/EAP772_UN_1.0_03_normal_20240329021425d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-ceiling-mount/eap772/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240408/Datasheet_EAP772.pdf"
         },
         {
           "model": "EAP670",
@@ -227,26 +206,6 @@
           "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240408/Datasheet_EAP610GP-Desktop.pdf"
         },
         {
-          "model": "EAP615GP-Wall",
-          "title": "Access Point Wi-Fi 6 GPON Dual Band AX1800 de Parede",
-          "specs": [
-            "Wi-Fi 6 sem interrupções com até 1,8 Gbps",
-            "1x Porta GPON para Rede Gigabit",
-            "Uma Fibra para Múltiplos Serviços",
-            "MU-MIMO, Roaming Sem Interrupções",
-            "PPSK, Múltiplos Portais",
-            "Montagem em Parede",
-            "Gestão Centralizada"
-          ],
-          "thumbnails": [
-            "https://static.tp-link.com/upload/image-line/EAP615GP-Wall_UN_1.0_overview_01__normal_20240709021714y.jpg",
-            "https://static.tp-link.com/upload/image-line/EAP615GP-Wall_UN_1.0_overview_02_normal_20240709021728g.jpg",
-            "https://static.tp-link.com/upload/image-line/EAP615GP-Wall_UN_1.0_overview_03_normal_20240709021740u.jpg"
-          ],
-          "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-wall-plate/eap615gp-wall/",
-          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/1910013239_Wall%20Plate%20EAP_Overview%20of%20Regulatory%20Compliance_REV1.5.0.pdf"
-        },
-        {
           "model": "EAP615-Wall",
           "title": "Access Point Wi-Fi 6 Dual Band AX1800 de Parede",
           "specs": [
@@ -308,17 +267,13 @@
           "model": "EAP650-Outdoor",
           "title": "Access Point Wi-Fi 6 Dual Band AX3000 Outdoor",
           "specs": [
-            "574 Mbps em 2.4GHz + 2402 Mbps em 5 GHz",
-            "Tecnologia Mesh",
-            "Antenas Inteligentes",
-            "À prova d'água e à prova de poeira (IP67)",
-            "Gerenciamento Centralizado na Nuvem"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
-          "thumbnails": [
-            "https://static.tp-link.com/upload/image-line/EAP650-Outdoor_UN_1.0_normal_20230821093157k.png",
-            "https://static.tp-link.com/upload/image-line/Omada_EAP650-Outdoor_WiFi_6_Outdoor_Access_Point_Outdoor_WiFi_2_normal_20220829060341n.jpg",
-            "https://static.tp-link.com/upload/image-line/Omada_EAP650-Outdoor_WiFi_6_Outdoor_Access_Point_Outdoor_WiFi_3_normal_20220829060349h.jpg"
-          ],
+          "thumbnails": [],
           "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-outdoor/eap650-outdoor/",
           "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202308/20230824/Datasheet_EAP650-Outdoor%20V1.pdf"
         },
@@ -377,6 +332,1512 @@
           ],
           "product_url": "https://www.tp-link.com/br/business-networking/omada-wifi-outdoor/eap610-outdoor/",
           "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241025/Datasheet_EAP610-Outdoor%20V1.pdf"
+        }
+      ]
+    }
+  },
+  "switches": {
+    "switches_l3/l2+_gerenciável": {
+      "products": [
+        {
+          "model": "SG3452P",
+          "title": "Switch Gerenciável L2+ de 52 Portas com 52 Portas Gigabit e 48 Portas PoE+ e 4 Slots SFP",
+          "specs": [
+            "48× Portas Gigabit PoE+ ",
+            "4× Slots SFP Gigabit",
+            "Gerenciamento de energia PoE de 384 W",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3452P_UN_1.0_01_normal_20230524192648s.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452P_UN_1.0_02_normal_20230524192648m.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452P_UN_1.0_03_normal_20230524192649p.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3452p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202401/20240126/Omada%20Gigabit%20L2%2b%20Managed%20Switch_BR.pdf"
+        },
+        {
+          "model": "TL-SG3452P",
+          "title": "Switch Gerenciável L2+ de 52 Portas com 52 Portas Gigabit e 48 Portas PoE+ e 4 Slots SFP",
+          "specs": [
+            "48× Portas Gigabit PoE+ ",
+            "4× Slots SFP Gigabit",
+            "Gerenciamento de energia PoE de 384 W",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3452P_UN_1.0_01_normal_20230524192648s.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452P_UN_1.0_02_normal_20230524192648m.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452P_UN_1.0_03_normal_20230524192649p.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3452p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2022/202206/20220606/SDN%20Gigabit%20Managed%20Switch%2020220602.pdf"
+        },
+        {
+          "model": "SX6632YF",
+          "title": "Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G",
+          "specs": [
+            "26× Portas SFP+ de 10G",
+            "6× Portas SFP28 de 10/25G",
+            "Empilhável",
+            "Fontes de Energia Redundantes Duplas",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SX6632YF_01_normal_20240109113052z.jpg",
+            "https://static.tp-link.com/upload/image-line/SX6632YF_02_normal_20240109113106i.jpg",
+            "https://static.tp-link.com/upload/image-line/SX6632YF_03_normal_20240109113115m.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sx6632yf/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241028/SX6632YF(UN)1.0_Datasheet.pdf"
+        },
+        {
+          "model": "SG6654XHP",
+          "title": "Switch Gerenciável L3 Empilhável de 48 Portas Gigabit e 6 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "48× Portas Gigabit PoE+",
+            "6× Slots SFP+ de 10 Gbps",
+            "Empilhável",
+            "Fontes de Alimentação Duplas Redundantes Opcionais",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_01_normal_20231110073609z.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_02_normal_20231110073633h.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_03_normal_20231110073654w.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg6654xhp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241021/L3_datasheets_BR.pdf"
+        },
+        {
+          "model": "SG6654X",
+          "title": "Switch Gerenciável L3 Empilhável de 54 Portas com 48 Portas Gigabit e 6 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "48 Portas Gigabit RJ45",
+            "6 Slots SFP+ de 10 Gbps",
+            "Empilhável",
+            "Fontes de Alimentação Redundantes Duplas",
+            "Gerenciamento Centralizado em Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-01_normal_20231110060646b.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-02_normal_20231110060717d.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-03_normal_20240109112856x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg6654x/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241021/L3_datasheets_BR.pdf"
+        },
+        {
+          "model": "SG6428X",
+          "title": "Switch Gerenciável L3 Empilhável de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "24 Portas RJ45 Gigabit",
+            "4 Slots SFP+ de 10 Gbps",
+            "Empilhável",
+            "Fontes de Alimentação Duplamente Redundantes",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG6428X(UN)1.0_Omada_Enterprise_L3_Switch-01_normal_20231110111244q.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6428X(UN)1.0_Omada_Enterprise_L3_Switch-02_normal_20231110111256i.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6428X(UN)1.0_Omada_Enterprise_L3_Switch-03_normal_20231110111311r.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg6428x/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241021/L3_datasheets_BR.pdf"
+        },
+        {
+          "model": "SG3452XP",
+          "title": "Switch Gerenciável L2+ de 52 Portas com 48 Portas Gigabit PoE+ e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "48 portas Gigabit PoE+",
+            "4 slots SFP+ de 10Gbps",
+            "Orçamento de energia PoE de 500 W",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3452XP_UN_1.0_F_normal_20211223063015x.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452XP_UN_1.0_L_normal_20211223063023u.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452XP_UN_1.0_B_normal_20211223063030b.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3452xp/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/7106511506_Omada%20L2%2b%20Managed%20Switch_IG.pdf"
+        },
+        {
+          "model": "SG3210XHP-M2",
+          "title": "Switch Gerenciável L2+ de 10 Portas com 8 Portas de 2.5 Gbps PoE+ e 2 Slots SFP+ de 10Gbps",
+          "specs": [
+            "8× Portas 2.5G PoE+",
+            "2× Slots SFP+ 10G",
+            "240 W PoE Power Budget",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/01_normal_1606737679022z.jpg",
+            "https://static.tp-link.com/03_normal_1606737689605f.jpg",
+            "https://static.tp-link.com/02_normal_1606737701477c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3210xhp-m2/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/7106511506_Omada%20L2%2b%20Managed%20Switch_IG.pdf"
+        },
+        {
+          "model": "TL-SG3210XHP-M2",
+          "title": "Switch Gerenciável L2+ de 10 Portas com 8 Portas de 2.5 Gbps PoE+ e 2 Slots SFP+ de 10Gbps",
+          "specs": [
+            "8× Portas 2.5G PoE+",
+            "2× Slots SFP+ 10G",
+            "240 W PoE Power Budget",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/01_normal_1606737679022z.jpg",
+            "https://static.tp-link.com/03_normal_1606737689605f.jpg",
+            "https://static.tp-link.com/02_normal_1606737701477c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3210xhp-m2/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG3210XHP-M2.pdf"
+        },
+        {
+          "model": "SG6428XHP",
+          "title": "Switch Gerenciável L3 Empilhável de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "24× Portas Gigabit PoE+",
+            "4× Slots SFP+ de 10 Gbps",
+            "Empilhável",
+            "Fontes de Alimentação Redundantes Duplas Opcionais",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG6428XHP(UN)1.0_Omada_Enterprise_L3_Switch-01_normal_20231110114409r.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6428XHP(UN)1.0_Omada_Enterprise_L3_Switch-03_normal_20231110114422h.jpg",
+            "https://static.tp-link.com/upload/image-line/SG6428XHP(UN)1.0_Omada_Enterprise_L3_Switch-02_normal_20231110114433n.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg6428xhp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241021/L3_datasheets_BR.pdf"
+        },
+        {
+          "model": "SG3428MP",
+          "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP",
+          "specs": [
+            "24 portas Gigabit PoE+",
+            "4 × slots SFP Gigabit",
+            "Potência PoE de 384 W",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG3428MP_UN_1.0_01_normal_1603785944578p.jpg",
+            "https://static.tp-link.com/TL-SG3428MP_UN_1.0_02_normal_1603785952064t.jpg",
+            "https://static.tp-link.com/TL-SG3428MP_UN_1.0_03_normal_1603785960827x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3428mp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202409/20240909/Datasheet_SG3428MP_updated%201.pdf"
+        },
+        {
+          "model": "SG3428X",
+          "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "24× Portas Gigabit RJ45",
+            "4× 10G SFP+ Slots",
+            "128 Gbps Switching Capacidade",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG3428X_10G_Switch_1_normal_1604657572826e.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428X_10G_Switch_2_normal_1604657584413b.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428X_10G_Switch_3_normal_1604657591267m.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3428x/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241011/Omada%2010-Gigabit%20L2%2b%20Managed%20Switch%20SG3428X%20datasheet.pdf"
+        },
+        {
+          "model": "SX3016F",
+          "title": "Switch Gerenciável L2+ de 16 Portas 10GE SFP+",
+          "specs": [
+            "16 × portas Full com 10GE SFP+",
+            "Capacidade de Comutação de 320 Gbps",
+            "Fontes de Alimentação Redundante",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SX3016F_UN_1.0_01_normal_20210924060640v.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SX3016F_UN_1.0_02_normal_20210924060647r.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SX3016F_UN_1.0_03_normal_20210924060655a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sx3016f/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/7106511506_Omada%20L2%2b%20Managed%20Switch_IG.pdf"
+        },
+        {
+          "model": "TL-SX3016F",
+          "title": "Switch Gerenciável L2+ de 16 Portas 10GE SFP+",
+          "specs": [
+            "16 × portas Full com 10GE SFP+",
+            "Capacidade de Comutação de 320 Gbps",
+            "Fontes de Alimentação Redundante",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SX3016F_UN_1.0_01_normal_20210924060640v.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SX3016F_UN_1.0_02_normal_20210924060647r.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SX3016F_UN_1.0_03_normal_20210924060655a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sx3016f/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202305/20230511/SDN%2010-Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "TL-SG3428X",
+          "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "24× Portas Gigabit RJ45",
+            "4× 10G SFP+ Slots",
+            "128 Gbps Switching Capacidade",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG3428X_10G_Switch_1_normal_1604657572826e.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428X_10G_Switch_2_normal_1604657584413b.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428X_10G_Switch_3_normal_1604657591267m.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3428x/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202305/20230511/SDN%2010-Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "TL-SG3452XP",
+          "title": "Switch Gerenciável L2+ de 52 Portas com 48 Portas Gigabit PoE+ e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "48 portas Gigabit PoE+",
+            "4 slots SFP+ de 10G",
+            "Orçamento de energia PoE de 500 W",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3452XP_UN_1.0_F_normal_20211223063015x.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452XP_UN_1.0_L_normal_20211223063023u.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452XP_UN_1.0_B_normal_20211223063030b.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3452xp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2022/202208/20220803/SDN%2010-Gigabit%20L2%2b%20Managed%20Switch_20220803.pdf"
+        },
+        {
+          "model": "SG3428XF",
+          "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "20 Portas Gigabit SFP",
+            "4 Portas Combo Gigabit SFP/RJ45",
+            "4 Slots 10G SFP+",
+            "Capacidade de Comutação de 128 Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3428XF_UN_1_01_normal_20220530031236l.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3428XF_UN_1_02_normal_20220530031243m.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3428XF_UN_1_03_normal_20220530031250a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3428xf/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202311/20231102/Omada%2010-Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "TL-SG3428XF",
+          "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "20× gigabit SFP Ports",
+            "4× gigabit SFP/RJ45 Combo Ports",
+            "4× 10G SFP+ Slots",
+            "128 Gbps Switching Capacity",
+            "Centralized Management"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3428XF_UN_1_01_normal_20220530031236l.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3428XF_UN_1_02_normal_20220530031243m.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3428XF_UN_1_03_normal_20220530031250a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3428xf/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG3428XF.pdf"
+        },
+        {
+          "model": "SG3452",
+          "title": "Switch Gerenciável L2+ com 48 Portas Gigabit e 4 Slots SFP Jetstream",
+          "specs": [
+            "48× Portas Gigabit RJ45",
+            "4× Slots SFP Gigabit",
+            "Capacidade de Comutação de 104Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG3452_01_normal_1606297632193s.jpg",
+            "https://static.tp-link.com/overview_TL-SG3452_02_normal_1606297642796d.jpg",
+            "https://static.tp-link.com/overview_TL-SG3452%EF%BC%88UN)1.0_03_normal_1606472600724n.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3452/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202311/20231101/Omada%20Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "TL-SG3452",
+          "title": "Switch Gerenciável L2+ com 48 Portas Gigabit e 4 Slots SFP Jetstream",
+          "specs": [
+            "48× Portas Gigabit RJ45",
+            "4× Slots SFP Gigabit",
+            "Capacidade de Comutação de 104Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG3452_01_normal_1606297632193s.jpg",
+            "https://static.tp-link.com/overview_TL-SG3452_02_normal_1606297642796d.jpg",
+            "https://static.tp-link.com/overview_TL-SG3452%EF%BC%88UN)1.0_03_normal_1606472600724n.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3452/",
+          "datasheet_url": "https://static.tp-link.com/product-overview/2021/202107/20210719/SDN%20Gigabit%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "SG3428XMP",
+          "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP+ 10Gbps",
+          "specs": [
+            "24× portas PoE+ Gigabit",
+            "4× Slots SFP+ 10G integrados",
+            "Budget PoE de 384W",
+            "Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG3428XMP_normal_1606737767860a.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428XMP_2_normal_1606737776283n.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428XMP_3_normal_1606737785321u.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3428xmp/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/7106511506_Omada%20L2%2b%20Managed%20Switch_IG.pdf"
+        },
+        {
+          "model": "SG3428",
+          "title": "Switch Gerenciável Gigabit L2+ de 24 portas com 4 Slots SFP JetStream",
+          "specs": [
+            "24× Portas Gigabit RJ45",
+            "4×  Portas SFP Gigabit",
+            "Capacidade de Comutação de 56 Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG3428_UN_2.0_01_normal_1610956416747t.jpg",
+            "https://static.tp-link.com/TL-SG3428_UN_1.0_02_normal_1611282362943c.jpg",
+            "https://static.tp-link.com/TL-SG3428_UN_2.0_03_normal_1610956486124k.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3428/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202311/20231101/Omada%20Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "TL-SG3428",
+          "title": "Switch Gerenciável Gigabit L2+ de 24 portas com 4 Slots SFP JetStream",
+          "specs": [
+            "24× Portas Gigabit RJ45",
+            "4×  Slots SFP Gigabit",
+            "Capacidade de Comutação de 56 Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG3428_UN_2.0_01_normal_1610956416747t.jpg",
+            "https://static.tp-link.com/TL-SG3428_UN_1.0_02_normal_1611282362943c.jpg",
+            "https://static.tp-link.com/TL-SG3428_UN_2.0_03_normal_1610956486124k.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3428/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG3428.pdf"
+        },
+        {
+          "model": "TL-SG3428XMP",
+          "title": "Switch Gerenciável L2+ com 24 Portas Gigabit PoE+ e 4 Slots SFP+ 10Gbps",
+          "specs": [
+            "24× portas PoE+ Gigabit",
+            "4× Slots SFP+ 10G integrados",
+            "Budget PoE de 384W",
+            "Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG3428XMP_normal_1606737767860a.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428XMP_2_normal_1606737776283n.jpg",
+            "https://static.tp-link.com/overview_TL-SG3428XMP_3_normal_1606737785321u.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3428xmp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202305/20230511/SDN%2010-Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "SG3210",
+          "title": "Switch Gerenciável L2+ de 8 Portas com com 8 Portas Gigabit e 2 Slots SFP",
+          "specs": [
+            "8× Portas Gigabit",
+            "2× Slots SFP Gigabit",
+            "Capacidade de comutação de 20Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_01_normal_1607079432786v.jpg",
+            "https://static.tp-link.com/overview_02_normal_1607079440254g.jpg",
+            "https://static.tp-link.com/overview_03_normal_1607079447045f.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3210/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/SG3210.pdf"
+        },
+        {
+          "model": "TL-SG3210",
+          "title": "Switch Gerenciável L2+ de 8 Portas com com 8 Portas Gigabit e 2 Slots SFP",
+          "specs": [
+            "8× Portas Gigabit",
+            "2× Slots SFP Gigabit",
+            "Capacidade de comutação de 20Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_01_normal_1607079432786v.jpg",
+            "https://static.tp-link.com/overview_02_normal_1607079440254g.jpg",
+            "https://static.tp-link.com/overview_03_normal_1607079447045f.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3210/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG3210.pdf"
+        },
+        {
+          "model": "SG3452X",
+          "title": "Switch Gerenciável L2+ de 52 Portas com 48 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "48& × Portas Gigabit RJ45",
+            "4& × Slots 10G SFP+",
+            "Capacidade de comutação de 176 Gbps",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3452X_10G_Switch_1_normal_20220222090407x.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452X_10G_Switch_2_normal_20220222090415v.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452X_10G_Switch_3_normal_20220223012659a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3452x/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241011/Omada%2010-Gigabit%20L2%2b%20Managed%20Switch%20SG3452X%20datasheet.pdf"
+        },
+        {
+          "model": "TL-SG3452X",
+          "title": "Switch Gerenciável L2+ de 52 Portas com 48 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+          "specs": [
+            "48& × Portas Gigabit RJ45",
+            "4& × Slots 10G SFP+",
+            "Capacidade de comutação de 176 Gbps",
+            "Gerenciamento centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG3452X_10G_Switch_1_normal_20220222090407x.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452X_10G_Switch_2_normal_20220222090415v.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG3452X_10G_Switch_3_normal_20220223012659a.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3452x/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202305/20230511/SDN%2010-Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "TL-SG3428MP",
+          "title": "Switch Gerenciável L2+ com 28 Portas Gigabit com 24 Portas PoE+ e 4 Slots SFP",
+          "specs": [
+            "24× Portas PoE+ Gigabit",
+            "4× Slots SFP Gigabit",
+            "Alimentação PoE de 384 W",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG3428MP_UN_1.0_01_normal_1603785944578p.jpg",
+            "https://static.tp-link.com/TL-SG3428MP_UN_1.0_02_normal_1603785952064t.jpg",
+            "https://static.tp-link.com/TL-SG3428MP_UN_1.0_03_normal_1603785960827x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/tl-sg3428mp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2022/202210/20221014/SDN%20Gigabit%20Managed%20Switch_20221012.pdf"
+        },
+        {
+          "model": "SX3206HPP",
+          "title": "Switch gerenciável Omada 10GE L2+ de 6 portas com 4 portas PoE++",
+          "specs": [
+            "Gerenciamento Centralizado em Nuvem",
+            "4 portas 10G PoE++",
+            "2 × slots SFP+ 10G",
+            "Orçamento PoE total de 200 W",
+            "Saída PoE de até 60 W por porta",
+            "Roteamento estático e ERPS"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SX3206HPP_UN_1.0_01_normal_20240204112019w.jpg",
+            "https://static.tp-link.com/upload/image-line/SX3206HPP_UN_1.0_02_normal_20240204112059r.jpg",
+            "https://static.tp-link.com/upload/image-line/SX3206HPP_UN_1.0_03_normal_20240204112122q.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sx3206hpp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202311/20231102/Omada%2010-Gigabit%20L2%2b%20Managed%20Switch.pdf"
+        },
+        {
+          "model": "SG3428XPP-M2",
+          "title": "Switch gerenciável L2+ Omada de 24 portas 2,5GBASE-T e 4 portas 10GE SFP+ com 16 portas PoE+ e 8 portas PoE++",
+          "specs": [
+            "Gerenciamento centralizado em nuvem",
+            "8 portas 2,5G PoE++",
+            "16 portas 2,5G PoE+",
+            "4 x 10G SFP+ slots",
+            "Budget PoE de 500 W",
+            "Roteamento estático e ERPS"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG3428XPP-M2_UN_1.20_01_normal_20240328045330t.jpg",
+            "https://static.tp-link.com/upload/image-line/SG3428XPP-M2_UN_1.20_02_normal_20240328045343m.jpg",
+            "https://static.tp-link.com/upload/image-line/SG3428XPP-M2_UN_1.20_03_normal_20240328045645e.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-l3-l2-managed/sg3428xpp-m2/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241101/7106511506_Omada%20L2%2b%20Managed%20Switch_IG.pdf"
+        }
+      ]
+    },
+    "switches_smart": {
+      "products": [
+        {
+          "model": "SG2210P",
+          "title": "Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP",
+          "specs": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "thumbnails": [],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2210p/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241122/1910013605_Managed%20Switch_CLI.pdf"
+        },
+        {
+          "model": "SG2428P",
+          "title": "Switch Smart de 28 Portas Gigabit com 24 Portas PoE+ e 4 Slots SFP",
+          "specs": [
+            "Gerenciamento Centralizado na Nuvem",
+            "24 portas Gigabit PoE+",
+            "4 slots Gigabit SFP",
+            "Orçamento total de energia de 250 W",
+            "Roteamento Estático"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2428P_UN_1.0_01_normal_1594869164133d.jpg",
+            "https://static.tp-link.com/TL-SG2428P_UN_1.0_02_normal_1594869173593r.jpg",
+            "https://static.tp-link.com/TL-SG2428P_UN_1.0_03_normal_1594869182297t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2428p/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241122/1910013605_Managed%20Switch_CLI.pdf"
+        },
+        {
+          "model": "SG2210MP",
+          "title": "Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP",
+          "specs": [
+            "Gerenciamento Centralizado via nuvem",
+            "8× Portas Gigabit PoE+",
+            "2× Slots Gigabit SFP",
+            "Total de energia PoE 150 W"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2210MP(UN)1.0-01_normal_1594869369356n.jpg",
+            "https://static.tp-link.com/TL-SG2210MP(UN)1.0-02_normal_1594869382485k.jpg",
+            "https://static.tp-link.com/TL-SG2210MP(UN)1.0-03_normal_1594869395045g.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2210mp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240401/Datasheet_SG2210MP(UN)5.0.pdf"
+        },
+        {
+          "model": "TL-SG2210MP",
+          "title": "Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP",
+          "specs": [
+            "Gerenciamento Centralizado via nuvem",
+            "8× Portas Gigabit PoE+",
+            "2× Slots Gigabit SFP",
+            "Total de energia PoE 150 W"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2210MP(UN)1.0-01_normal_1594869369356n.jpg",
+            "https://static.tp-link.com/TL-SG2210MP(UN)1.0-02_normal_1594869382485k.jpg",
+            "https://static.tp-link.com/TL-SG2210MP(UN)1.0-03_normal_1594869395045g.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2210mp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230116/SDN%20Smart%20Switch(20230113).pdf"
+        },
+        {
+          "model": "TL-SG2210P",
+          "title": "Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP",
+          "specs": [
+            "8 portas PoE+",
+            "PoE budget: 61 W",
+            "Gerenciamento Centralizado",
+            "QoS e IGMP snooping"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2210P(UN)3.2_01_normal_1594974330186l.jpg",
+            "https://static.tp-link.com/TL-SG2210P(UN)3.2_02_normal_1594974341872k.jpg",
+            "https://static.tp-link.com/TL-SG2210P(UN)3.2)_03_normal_1594974359538i.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2210p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230116/SDN%20Smart%20Switch(20230113).pdf"
+        },
+        {
+          "model": "SG2016P",
+          "title": "Switch Smart de 16 Portas Gigabit com 8 Portas PoE+",
+          "specs": [
+            "Gerenciamento Centralizado em Nuvem",
+            "8 portas PoE+ ",
+            "Budget PoE: 120 W",
+            "Padrão PoE: IEEE 802.3af/at"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG2016P(UN)_1.0-B_normal_20221109064647h.PNG"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2016p/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241122/1910013605_Managed%20Switch_CLI.pdf"
+        },
+        {
+          "model": "TL-SG2016P",
+          "title": "Switch Smart de 16 Portas Gigabit com 8 Portas PoE+",
+          "specs": [
+            "Gerenciamento Centralizado em Nuvem",
+            "8 portas PoE+ ",
+            "Budget PoE: 120 W",
+            "Padrão PoE: IEEE 802.3af/at"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG2016P(UN)_1.0-B_normal_20221109064647h.PNG"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2016p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG2016P.pdf"
+        },
+        {
+          "model": "TL-SG2428P",
+          "title": "Switch Smart de 28 Portas Gigabit com 24 Portas PoE+ e 4 Slots SFP",
+          "specs": [
+            "Gerenciamento Centralizado via Nuvem",
+            "24× Portas Gigabit PoE+",
+            "4× Slots Gigabit SFP",
+            "Fonte de Alimentação 250 W",
+            "Roteamento Estático do Recurso L2+"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2428P_UN_1.0_01_normal_1594869164133d.jpg",
+            "https://static.tp-link.com/TL-SG2428P_UN_1.0_02_normal_1594869173593r.jpg",
+            "https://static.tp-link.com/TL-SG2428P_UN_1.0_03_normal_1594869182297t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2428p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230116/SDN%20Smart%20Switch(20230113).pdf"
+        },
+        {
+          "model": "SG2428LP",
+          "title": "Switch Smart de 24 portas Gigabit com16 portas PoE+",
+          "specs": [
+            "Gerenciamento Centralizado na Nuvem",
+            "24 Portas Gigabit RJ45 (16 Portas PoE+)",
+            "4 Slots Gigabit SFP",
+            "Orçamento Total de Energia de 150 W",
+            "Roteamento Estático"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG2428LP_UN_1.0_1_normal_20240319025507c.jpg",
+            "https://static.tp-link.com/upload/image-line/SG2428LP_UN_1.0_2_normal_20240319025545v.jpg",
+            "https://static.tp-link.com/upload/image-line/SG2428LP_UN_1.0_3_normal_20240319025555c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2428lp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/Datasheet_SG2428LP(UN)1.0.pdf"
+        },
+        {
+          "model": "SG2005P-PD",
+          "title": "Switch Smart de 5 portas Gigabit com 1 Porta PoE++ de Entrada e 4 Portas PoE+ de Saída",
+          "specs": [
+            "Até 200 m de Distância PoE sem Perder Velocidades Gigabit",
+            "4 Portas de Saída PoE+",
+            "Orçamento de até 64 W de PoE",
+            "Proteção contra Intempéries para Uso Externo",
+            "Gerenciamento Centralizado na Nuvem"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG2005P-PD(UN)1.0_PoE_passthrough_outdoor_Switch_01_normal_20230731033915a.jpg",
+            "https://static.tp-link.com/upload/image-line/SG2005P-PD(UN)1.0_PoE_passthrough_outdoor_Switch_02_normal_20230918072848f.jpg",
+            "https://static.tp-link.com/upload/image-line/SG2005P-PD(UN)1.0_PoE_passthrough_outdoor_Switch_03_normal_20230731033933f.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2005p-pd/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202404/20240430/SG2005P-PD(UN)1.0&SG2210XMP-M2(UN)1.0%20datasheet.pdf"
+        },
+        {
+          "model": "SG2218",
+          "title": "Switch Smart de 18 Portas com 16 Portas Gigabit e 2 Slots SFP",
+          "specs": [
+            "16× Portas Gigabit RJ45",
+            "2× Slots SFP Gigabit",
+            "Capacidade do Switch de 36 Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG2218_01_normal_1606214727121p.jpg",
+            "https://static.tp-link.com/overview_TL-SG2218_02_normal_1606214734653t.jpg",
+            "https://static.tp-link.com/overview_TL-SG2218_03_normal_1606214744090y.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2218/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241122/1910013605_Managed%20Switch_CLI.pdf"
+        },
+        {
+          "model": "TL-SG2218",
+          "title": "Switch Smart de 18 Portas com 16 Portas Gigabit e 2 Slots SFP",
+          "specs": [
+            "16× Portas Gigabit RJ45",
+            "2× Slots SFP Gigabit",
+            "Capacidade do Switch de 36 Gbps",
+            "Gerenciamento Centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/overview_TL-SG2218_01_normal_1606214727121p.jpg",
+            "https://static.tp-link.com/overview_TL-SG2218_02_normal_1606214734653t.jpg",
+            "https://static.tp-link.com/overview_TL-SG2218_03_normal_1606214744090y.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2218/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230116/SDN%20Smart%20Switch(20230113).pdf"
+        },
+        {
+          "model": "SG2008",
+          "title": "Switch Smart de 8 Portas Gigabit",
+          "specs": [
+            "8× Portas Gigabit RJ45",
+            "Capacidade de comutação de 16 Gbps",
+            "Gerenciamento de nuvem centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2008(UN)3.0_01_normal_1594973658581j.jpg",
+            "https://static.tp-link.com/TL-SG2008(UN)3.0_02_normal_1594973773065s.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG2008(UN)1.0_Bjpg_normal_20211112092754r.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2008/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241122/1910013605_Managed%20Switch_CLI.pdf"
+        },
+        {
+          "model": "TL-SG2008",
+          "title": "Switch Smart de 8 Portas Gigabit",
+          "specs": [
+            "8× Portas Gigabit RJ45",
+            "Capacidade de comutação de 16 Gbps",
+            "Gerenciamento de nuvem centralizado"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2008(UN)3.0_01_normal_1594973658581j.jpg",
+            "https://static.tp-link.com/TL-SG2008(UN)3.0_02_normal_1594973773065s.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG2008(UN)1.0_Bjpg_normal_20211112092754r.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2008/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230116/SDN%20Smart%20Switch(20230113).pdf"
+        },
+        {
+          "model": "SG2008P",
+          "title": "Switch Smart de 8 Portas Gigabit com 4 portas PoE+",
+          "specs": [
+            "Gerenciamento em Nuvem Centralizado",
+            "4 portas PoE+",
+            "Capacidade PoE: 62 W",
+            "Padrão PoE: IEEE 802.3af/at"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2008P(UN)1.0_01_normal_1594869482015x.jpg",
+            "https://static.tp-link.com/TL-SG2008P(UN)1.0_02_normal_1594869490557j.jpg",
+            "https://static.tp-link.com/TL-SG2008P(UN)1.0_03_normal_1594884488225j.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2008p/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202411/20241122/1910013605_Managed%20Switch_CLI.pdf"
+        },
+        {
+          "model": "TL-SG2008P",
+          "title": "Switch Smart de 8 Portas Gigabit com 4 portas PoE+",
+          "specs": [
+            "Gerenciamento em Nuvem Centralizado",
+            "4 portas PoE+",
+            "Capacidade PoE: 62 W",
+            "Padrão PoE: IEEE 802.3af/at"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG2008P(UN)1.0_01_normal_1594869482015x.jpg",
+            "https://static.tp-link.com/TL-SG2008P(UN)1.0_02_normal_1594869490557j.jpg",
+            "https://static.tp-link.com/TL-SG2008P(UN)1.0_03_normal_1594884488225j.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/tl-sg2008p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230116/SDN%20Smart%20Switch(20230113).pdf"
+        },
+        {
+          "model": "SG2218P",
+          "title": "Switch inteligente Omada de 18 portas Gigabit com 16 portas PoE+",
+          "specs": [
+            "Gestão centralizada em nuvem",
+            "16× portas Gigabit PoE+",
+            "2× slots Gigabit SFP",
+            "Budget PoE total de 150 W",
+            "Roteamento estático"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/SG2218P_UN_1.20_01_normal_20240228014530h.jpg",
+            "https://static.tp-link.com/upload/image-line/SG2218P_UN_1.20_02_normal_20240228014549u.jpg",
+            "https://static.tp-link.com/upload/image-line/SG2218P_UN_1.20_03_normal_20240228014601x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-smart/sg2218p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202310/20231031/SDN%20Smart%20Switch(20231031).pdf"
+        }
+      ]
+    },
+    "switches_easy_smart": {
+      "products": [
+        {
+          "model": "TL-SG1016PE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 16 Portas com 8 Portas PoE+",
+          "specs": [
+            "8× Portas Gigabit PoE+",
+            "Case de aço montável em rack",
+            "802.3at/af",
+            "Web/Gerenciamento de Utilitários"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1016PE(UN)2.0-01_normal_1579598351405e.jpg",
+            "https://static.tp-link.com/TL-SG1016PE(UN)2.0-02_normal_1579598361434p.jpg",
+            "https://static.tp-link.com/TL-SG1016PE(UN)2.0-03_normal_1579598378035t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-easy-smart/tl-sg1016pe/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202310/20231030/TL-SG1016PE(UN)%204.0%20Datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1016DE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 16 Portas",
+          "specs": [
+            "16 portas Gigabit RJ45",
+            "Caixa de metal para montagem em rack",
+            "Gerenciamento via Web/Utilitário",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1016DE_UN_3.0_01_1499779720978e.jpg",
+            "https://static.tp-link.com/TL-SG1016DE_UN_3.0_02_1499779942490i.jpg",
+            "https://static.tp-link.com/TL-SG1016DE_UN_3.0_03_1499779771718p.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-easy-smart/tl-sg1016de/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1016DE(UN)7.0_datasheet.pdf"
+        }
+      ]
+    },
+    "switches_não-gerenciáveis": {
+      "products": [
+        {
+          "model": "TL-SL1226P",
+          "title": "Switch Não Gerenciável com 24-Portas 10/100Mbps PoE+ e 2-Portas Gigabit",
+          "specs": [
+            "24× Portas RJ45 PoE+ 10/100 Mbps",
+            "2× Portas RJ25 Gigabit",
+            "2× Slots SFP Combo Gigabit",
+            "Budget PoE Total de 250 W",
+            "Até 250 m PoE de Transmissão"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/01_normal_1578918202414n.jpg",
+            "https://static.tp-link.com/02_normal_1582771792238h.jpg",
+            "https://static.tp-link.com/06_normal_1582771806006y.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sl1226p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202405/20240531/TL-SL1226P(UN)4.20_datasheet.pdf"
+        },
+        {
+          "model": "TL-SL1218P",
+          "title": "Switch de 16 Portas PoE+ 10/100Mbps com 2 Portas Gigabit",
+          "specs": [],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SL1218P(UN)1.0_Overview_01_normal_1595313904832r.jpg",
+            "https://static.tp-link.com/TL-SL1218P(UN)1.0_Overview_02_normal_1595313911423f.jpg",
+            "https://static.tp-link.com/TL-SL1218P(UN)1.0_Overview_03_normal_1595313918740t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sl1218p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202309/20230901/TL-SL1218MP(UN)2.0&TL-SL1218P(UN)1.0&TL-SL1226P(UN)1.20_datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1005LP",
+          "title": "Switch Gigabit de Mesa de 5 Portas com 4 Portas PoE",
+          "specs": [
+            "4× Portas Gigabit PoE+",
+            "1× Porta Gigabit não PoE",
+            "Potência PoE de 40 W",
+            "Case de aço",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1005LP_UN_1.0_01_normal_1594115114026f.jpg",
+            "https://static.tp-link.com/TL-SG1005LP_UN_1.0_02_normal_1594115121859u.jpg",
+            "https://static.tp-link.com/TL-SG1005LP_UN_1.0_03_normal_1594115132483x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1005lp/",
+          "datasheet_url": "https://static.tp-link.com/2021/202102/20210204/TP-Link%20PoE%20Switch%20Series%20Flyer.pdf"
+        },
+        {
+          "model": "TL-SF1005LP",
+          "title": "Switch Fast Ethernet de Mesa de 5 Portas com 4 Portas PoE",
+          "specs": [
+            "4× Portas 10/100 Mbps 802.3af PoE e 1× Porta 10/100 Mbps não PoE",
+            "41 W PoE Power Budget",
+            "Distância de Transmissão PoE de até 250 m",
+            "Case de Metal",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SF1005LP_UN_1.0_01_normal_1593343667310v.jpg",
+            "https://static.tp-link.com/TL-SF1005LP_UN_1.0_02_normal_1593343675129m.jpg",
+            "https://static.tp-link.com/TL-SF1005LP_UN_1.0_03_normal_1593343823756b.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1005lp/",
+          "datasheet_url": "https://static.tp-link.com/2021/202102/20210204/TP-Link%20PoE%20Switch%20Series%20Flyer.pdf"
+        },
+        {
+          "model": "TL-SF1009P",
+          "title": "Switch Fast Ethernet de Mesa de 9 Portas com 8 Portas PoE+",
+          "specs": [
+            "8 × 10/100 Mbps 802.3af/at em portas PoE+, 1 porta × 10/100 Mbps não PoE",
+            "65 W PoE Power",
+            "Distância de transmissão PoE de até 250 m",
+            "Caixa de Metal Durável",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/1_normal_1591068207458q.jpg",
+            "https://static.tp-link.com/2_normal_1591068222285s.jpg",
+            "https://static.tp-link.com/3_normal_1591068232932m.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1009p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SF1009P.pdf"
+        },
+        {
+          "model": "TL-SF1008P",
+          "title": "Switch Fast Ethernet de Mesa de 8 Portas com 4 Portas PoE",
+          "specs": [
+            "4× Portas PoE de 10/100Mbps, 4× Portas de 10/100Mbps",
+            "57 W Energia PoE",
+            "Estrutura de Aço de Mesa",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SF1008P(UN)5.0-01_1493262786949t.jpg",
+            "https://static.tp-link.com/TL-SF1008P(UN)5.0-02_1493262821200z.jpg",
+            "https://static.tp-link.com/TL-SF1008P_UN_5.0_03_1499778555801g.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1008p/",
+          "datasheet_url": "https://static.tp-link.com/2021/202102/20210204/TP-Link%20PoE%20Switch%20Series%20Flyer.pdf"
+        },
+        {
+          "model": "TL-SG105PE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 5 Portas com 4 Portas PoE+",
+          "specs": [
+            "5× Portas Gigabit PoE+",
+            "802.3af/at",
+            "Capacidade de energia de 65 W",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/01_normal_20220914145422k.jpg",
+            "https://static.tp-link.com/upload/image-line/02_normal_20220914145423f.jpg",
+            "https://static.tp-link.com/upload/image-line/03_normal_20220914145423p.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg105pe/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG105PE.pdf"
+        },
+        {
+          "model": "TL-SG105E",
+          "title": "Switch Gigabit Easy Smart de Mesa de 5 Portas",
+          "specs": [
+            "5 portas de 10/100/1000 Mbps",
+            "Conectar e Usar",
+            "Gerenciamento via Web/Utilitário",
+            "Caixa de metal durável"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG105E-01_1480036461094g.jpg",
+            "https://static.tp-link.com/TL-SG105E-02_1480036489954k.jpg",
+            "https://static.tp-link.com/TL-SG105E-03_1480036515835b.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg105e/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG105E.pdf"
+        },
+        {
+          "model": "TL-SG108E",
+          "title": "Switch Gigabit Easy Smart de Mesa de 8 Portas",
+          "specs": [
+            "8× portas RJ45 10/100/1000 Mbps",
+            "Plug and Play",
+            "Gerenciamento Inteligente",
+            "Caixa de Metal Durável"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG108E_UN_5.0_01_normal_1573712263606h.jpg",
+            "https://static.tp-link.com/TL-SG108E_UN_5.0_011_normal_1573712273925u.jpg",
+            "https://static.tp-link.com/TL-SG108E_UN_5.0_04_normal_1573712306742d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg108e/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202301/20230111/TL-SG116E(UN)1.2&TL-SG108E(UN)6.0&TL-SG105E(UN)5.0_Datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1024DE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 24 Portas",
+          "specs": [
+            "24 portas Gigabit RJ45",
+            "Caixa de metal para montagem em rack",
+            "Gerenciamento via Web/Utilitário",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1024DE_UN_3.0_01_1499780361152p.jpg",
+            "https://static.tp-link.com/TL-SG1024DE_UN_3.0_02_1499780383644v.jpg",
+            "https://static.tp-link.com/TL-SG1024DE_UN_3.0_03_1499780603433q.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1024de/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1024DE(UN)7.0_datasheet.pdf"
+        },
+        {
+          "model": "TL-SG108",
+          "title": "Switch Gigabit de Mesa de 8 Portas",
+          "specs": [
+            "8× portas RJ45 10/100/1000 Mbps",
+            "Plug and Play",
+            "Gerenciamento Inteligente",
+            "Caixa de Metal Durável"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG108E_UN_5.0_01_normal_1573712263606h.jpg",
+            "https://static.tp-link.com/TL-SG108E_UN_5.0_011_normal_1573712273925u.jpg",
+            "https://static.tp-link.com/TL-SG108E_UN_5.0_04_normal_1573712306742d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg108/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG108.pdf"
+        },
+        {
+          "model": "TL-SG1016DE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 16 Portas",
+          "specs": [
+            "16 portas Gigabit RJ45",
+            "Caixa de metal para montagem em rack",
+            "Gerenciamento via Web/Utilitário",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1016DE_UN_3.0_01_1499779720978e.jpg",
+            "https://static.tp-link.com/TL-SG1016DE_UN_3.0_02_1499779942490i.jpg",
+            "https://static.tp-link.com/TL-SG1016DE_UN_3.0_03_1499779771718p.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1016de/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1016DE(UN)7.0_datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1048",
+          "title": "Switch Gigabit de Mesa de 48 Portas",
+          "specs": [
+            "48 portas Gigabit RJ45",
+            "Caixa de metal para montagem em rack de 1U de 19 polegadas",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1048_UN_6.0_01_1499780763809f.jpg",
+            "https://static.tp-link.com/TL-SG1048_UN_6.0_02_1499780589444o.jpg",
+            "https://static.tp-link.com/TL-SG1048_UN_6.0_03_1499780808194d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1048/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1048.pdf"
+        },
+        {
+          "model": "TL-SG1005P",
+          "title": "Switch Gigabit de Mesa de 5 Portas com 4 Portas PoE+",
+          "specs": [
+            "4× Portas PoE+ Gigabit",
+            "1× Porta não PoE Gigabit",
+            "Alimentação PoE de 65 W",
+            "Gabinete de Aço para Desktop",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1005P_UN_2.0_01_normal_1591067715382k.jpg",
+            "https://static.tp-link.com/TL-SG1005P_UN_2.0_02_normal_1591067759408h.jpg",
+            "https://static.tp-link.com/TL-SG1005P_UN_2.0_03_normal_1591067787421d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1005p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202303/20230328/TL-SG1005P(UN)5.0%20&%20TL-SG1005LP(UN)2.0_Datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1016PE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 16 Portas com 8 Portas PoE+",
+          "specs": [
+            "8× Portas Gigabit PoE+",
+            "Case de aço montável em rack",
+            "802.3at/af",
+            "Web/Gerenciamento de Utilitários"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1016PE(UN)2.0-01_normal_1579598351405e.jpg",
+            "https://static.tp-link.com/TL-SG1016PE(UN)2.0-02_normal_1579598361434p.jpg",
+            "https://static.tp-link.com/TL-SG1016PE(UN)2.0-03_normal_1579598378035t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1016pe/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2023/202310/20231030/TL-SG1016PE(UN)%204.0%20Datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1210MP",
+          "title": "Switch Gigabit de Mesa de 10 Portas com 8 Portas PoE+",
+          "specs": [
+            "8× Portas Gigabit PoE+",
+            "1× Porta Gigabit Combo SFP/RJ45",
+            "Potência PoE de 123 W",
+            "Até 250 m Transmissão PoE+",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/A%2b-overview01_normal_1618905034215b.jpg",
+            "https://static.tp-link.com/A%2b-overview02_normal_1618905071088u.jpg",
+            "https://static.tp-link.com/upload/image-line/TL-SG1210MP(UN)2.0_normal_20211216100043j.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1210mp/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1210MP.pdf"
+        },
+        {
+          "model": "TL-SG1210MPE",
+          "title": "Switch Gigabit Easy Smart de Mesa de 10 Portas com 8 Portas PoE+",
+          "specs": [
+            "8× Portas Gigabit PoE+",
+            "802.3af/at compatível",
+            "Capacidade de energia de 123 W",
+            "Recuperação automática de PoE"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/01_normal_1617175676826g.jpg",
+            "https://static.tp-link.com/02_normal_1617175686500y.jpg",
+            "https://static.tp-link.com/03_normal_1617175699024d.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1210mpe/",
+          "datasheet_url": "https://static.tp-link.com/2021/202103/20210317/TL-SG1210MPE(UN)2.0%20Datasheet.pdf"
+        },
+        {
+          "model": "TL-SF1005P",
+          "title": "Switch Fast Ethernet de Mesa de 5 Portas com 4 Portas PoE+",
+          "specs": [
+            "4× Portas 10/100 Mbps 802.3af/at PoE+, 1× Porta 10/100 Mbps",
+            "Budget PoE de 67 W",
+            "Até 250 m de Transmissão PoE",
+            "Case Metálico Durável",
+            "Plug & Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/01_normal_20230616025640n.jpg",
+            "https://static.tp-link.com/upload/image-line/02_normal_20230616025703h.jpg",
+            "https://static.tp-link.com/upload/image-line/03_normal_20230616025714s.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1005p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SF1005P.pdf"
+        },
+        {
+          "model": "TL-SG1008P",
+          "title": "Switch Gigabit de Mesa de 8 Portas com 4 Portas PoE+",
+          "specs": [
+            "4× Gigabit PoE Ports",
+            "4× Gigabit non-PoE Ports",
+            "55 W PoE Power",
+            "Desktop Steel Case",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1008P_UN_3.0_01_1499779075717c.jpg",
+            "https://static.tp-link.com/TL-SG1008P_UN_3.0_02_1499778980093b.jpg",
+            "https://static.tp-link.com/TL-SG1008P_UN_3.0_03_1499779135657p.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1008p/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1008P.pdf"
+        },
+        {
+          "model": "TL-SG1008MP",
+          "title": "Switch Gigabit de Mesa ou Rack de 8 Portas PoE+",
+          "specs": [
+            "8× Portas Gigabit PoE+",
+            "802.3at/af",
+            "Montável em Rack ",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SG1008MP_UN_1.8_01_normal_1547801303681p.jpg",
+            "https://static.tp-link.com/TL-SG1008MP_UN_1.8_02_normal_1547801315578g.jpg",
+            "https://static.tp-link.com/TL-SG1008MP_UN_1.8_03_normal_1547801326269h.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1008mp/",
+          "datasheet_url": "https://static.tp-link.com/2021/202102/20210204/TP-Link%20PoE%20Switch%20Series%20Flyer.pdf"
+        },
+        {
+          "model": "TL-SF1016D",
+          "title": "Switch Fast Ethernet de Mesa de 16 Portas",
+          "specs": [
+            "16× Portas 10/100 Mbps",
+            "Green Ethernet Technology",
+            "Plug and Play"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SF1016D%EF%BC%88UN)6.0-01_1495168190401e.jpg",
+            "https://static.tp-link.com/TL-SF1016D%EF%BC%88UN)6.0-02_1495168386309n.jpg",
+            "https://static.tp-link.com/TL-SF1016D%EF%BC%88UN)6.0-03_1495168430737b.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1016d/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SF1016D.pdf"
+        },
+        {
+          "model": "TL-SG1024D",
+          "title": "Switch Gigabit de Mesa ou Rack de 24 Portas",
+          "specs": [
+            "24 portas Gigabit RJ45",
+            "Caixa de metal para montagem em rack",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG1024D(UN)11.0-package_normal_20230831095701c.png",
+            "https://static.tp-link.com/upload/image-line/TL-SG1024D(UN)_11.0-340x235x80mm-7022511192_normal_20230831095711d.png"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1024d/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202405/20240522/TL-SG1024D_V11%201.pdf"
+        },
+        {
+          "model": "TL-SF1024D",
+          "title": "Switch Fast Ethernet de Mesa de 24 Portas",
+          "specs": [
+            "24 portas RJ45 de 10/100 Mbps",
+            "Caixa de metal para montagem em rack",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SF1024D_UN_3.0_01_normal_1508816868504g.jpg",
+            "https://static.tp-link.com/TL-SF1024D_UN_3.0_02_normal_1508816631105a.jpg",
+            "https://static.tp-link.com/TL-SF1024D_UN_3.0_03_normal_1508816901032z.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1024d/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SF1024D.pdf"
+        },
+        {
+          "model": "TL-SF1048",
+          "title": "Switch Fast Ethernet Montável em Rack de 48 Portas",
+          "specs": [
+            "48 portas RJ45 de 10/100 Mbps",
+            "Caixa de metal para montagem em rack",
+            "Conectar e Usar"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/TL-SF1048_UN_7.0_01_normal_1508823930172m.jpg",
+            "https://static.tp-link.com/TL-SF1048_UN_7.0_02_normal_1508824202066n.jpg",
+            "https://static.tp-link.com/TL-SF1048_UN_7.0_03_normal_1508823959644o.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sf1048/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2024/202405/20240522/7106511025_Rackmount%20Switch_EU1.pdf"
+        },
+        {
+          "model": "TL-SG1024",
+          "title": "Switch Gigabit Montável em Rack de 24 Portas",
+          "specs": [],
+          "thumbnails": [],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1024/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1024.pdf"
+        },
+        {
+          "model": "TL-SL1226",
+          "title": "Switch Montável em Rack de 24 Portas 10/100Mbps + 2 Portas Gigabit",
+          "specs": [],
+          "thumbnails": [
+            "https://static.tp-link.com/res/images/products/gallery/TL-SL1226.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sl1226/",
+          "datasheet_url": "https://static.tp-link.com/resources/document/TL-SL1226_V3_Datasheet.pdf"
+        },
+        {
+          "model": "TL-SG1016D",
+          "title": "Switch Gigabit de Mesa ou Rack de 16 Portas",
+          "specs": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/TL-SG1016D(UN)12.0-package_normal_20230816120731x.png",
+            "https://static.tp-link.com/upload/image-line/TL-SG1016D(UN)_12.0-340x235x80mm-H_-7022511020_normal_20230816120933p.png"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-switch-unmanaged/tl-sg1016d/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1016D.pdf"
+        }
+      ]
+    }
+  },
+  "routers": {
+    "roteadores_cabeados": {
+      "products": [
+        {
+          "model": "ER8411",
+          "title": "Roteador VPN Omada com Portas 10G",
+          "specs": [
+            "Gerenciamento Centralizado na Nuvem",
+            "2 Portas 10GE SFP+ (1 WAN, 1 WAN/LAN)",
+            "Até 10 Portas WAN",
+            "Balanço de Carga Multi-WAN",
+            "VPN de Alta Segurança"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/ER8411_UN_1_normal_20230518145342c.jpg",
+            "https://static.tp-link.com/upload/image-line/ER8411_UN_2_normal_20230518145357m.jpg",
+            "https://static.tp-link.com/upload/image-line/ER8411_UN_3_normal_20230518145406c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-router-wired-router/er8411/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202402/20240205/ER8411(UN)1.0_Datasheet.pdf"
+        },
+        {
+          "model": "ER605",
+          "title": "Roteador Omada VPN Gigabit",
+          "specs": [
+            "Gerenciamento Centralizado em Nuvem",
+            "5 Portas Gigabit",
+            "1× WAN + 3× WAN/LAN + 1× LAN",
+            "VPN de Alta Segurança",
+            "Multi-WAN Load Balance"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/ER605_V2_VPN_Load_Balance_Router_01_normal_20211125084350a.jpg",
+            "https://static.tp-link.com/upload/image-line/ER605_V2_VPN_Load_Balance_Router_02_normal_20211125084358j.jpg",
+            "https://static.tp-link.com/upload/image-line/ER605_V2_VPN_Load_Balance_Router_03_normal_20211125084405y.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-router-wired-router/er605/",
+          "datasheet_url": "https://static.tp-link.com/2020/202012/20201223/1910012926-Omada%20SDN%20Controller%204.2.4-User%20Guide.pdf"
+        },
+        {
+          "model": "ER7206",
+          "title": "Roteador VPN Gigabit Multi-WAN SafeStream",
+          "specs": [
+            "Gerenciamento de Nuvem Centralizado",
+            "Portas Gigabit",
+            "1× Porta SFP WAN + 5 Portas RJ45 (1× WAN + 2× WAN/LAN + 2× LAN)",
+            "VPN de Alta Segurança",
+            "Balanceamento de Carga Multi-WAN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/ER7206_UN_2.20_overview_01_normal_20240920183650v.jpg",
+            "https://static.tp-link.com/upload/image-line/ER7206_UN_2.20_overview_02_normal_20240920183651a.jpg",
+            "https://static.tp-link.com/upload/image-line/ER7206_UN_2.20_overview_03_normal_20240920183651g.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-router-wired-router/er7206/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241025/ER7206(UN)2.20%20Datasheet.pdf"
+        }
+      ]
+    },
+    "roteadores_wi-fi": {
+      "products": [
+        {
+          "model": "ER706W",
+          "title": "Roteador VPN Wi-Fi Omada AX3000 Gigabit",
+          "specs": [
+            "Gerenciamento centralizado na nuvem",
+            "Conectividade sem fio de banda dupla AX3000",
+            "Portas Gigabit",
+            "VPN de alta segurança",
+            "Balanceamento de carga multi-WAN"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/ER706W(UN)1.0_01_normal_20231207030948j.png",
+            "https://static.tp-link.com/upload/image-line/overview_ER706W(UN)1.0_02_normal_20230609063848j.jpg",
+            "https://static.tp-link.com/upload/image-line/overview_ER706W(UN)1.0_03_normal_20230609063857x.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-router-wifi-router/er706w/",
+          "datasheet_url": "https://static.tp-link.com/upload/manual/2023/202307/20230725/1910013378_ER605(UN)2.0_CLI.pdf"
+        }
+      ]
+    },
+    "roteadores_integrados": {
+      "products": [
+        {
+          "model": "ER7212PC",
+          "title": "Roteador Gigabit VPN Omada 3 em 1",
+          "specs": [
+            "3-in-1 Router with fanless and compact design",
+            "12× Gigabit ports",
+            " 2× Gigabit SFP WAN/LAN ports, 1× Gigabit RJ45 WAN port, and 1× Gigabit RJ45 WAN/LAN port",
+            "110W PoE Budget",
+            "Highly Secure VPN",
+            "Centralized Management"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/ER7212PC_overview_1_normal_20221110014403b.jpg",
+            "https://static.tp-link.com/upload/image-line/ER7212PC_overview_2_normal_20221110014422s.jpg",
+            "https://static.tp-link.com/upload/image-line/ER7212PC_overview_3_normal_20221110014434h.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-router-integrated-router/er7212pc/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241018/ER7212PC%20Datasheet.pdf"
+        }
+      ]
+    }
+  },
+  "controllers": {
+    "controlador_baseado_em_nuvem": {
+      "products": [
+        {
+          "model": "Omada Cloud-Based Controller",
+          "title": "Omada Cloud-Based Controller",
+          "specs": [
+            "Centralized Cloud Management",
+            "Existing Entirely in the Cloud ",
+            "Zero-Touch Provisioning",
+            "No Additional Hardware Controller Investment",
+            "No On-premises Installation"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/01_normal_20211203080646h.jpg",
+            "https://static.tp-link.com/upload/image-line/02_normal_20211203080656t.jpg",
+            "https://static.tp-link.com/upload/image-line/03_normal_20211203080636c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-controller-cloud-based/omada-cloud-based-controller/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202408/20240826/Omada%20Cloud-Based%20Controller_Datasheet.pdf"
+        }
+      ]
+    },
+    "controlador_hardware": {
+      "products": [
+        {
+          "model": "OC300",
+          "title": "Hardware Controlador Omada",
+          "specs": [
+            "2× Portas 10/100/1000 Mbps Ethernet",
+            "1× Porta USB 3.0",
+            "Gerenciamento Centralizado para APs, Switches e Roteadores",
+            "Acesso via Nuvem",
+            "Até 500 APs, 100 Switches e 100 Roteadores"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/OC300-01_normal_1592474238729d.jpg",
+            "https://static.tp-link.com/OC300(UN)-2_normal_1606467256061e.jpg",
+            "https://static.tp-link.com/OC300(UN)-3_normal_1606467263729m.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-controller-hardware/oc300/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202411/20241114/Controller%20Datasheet_compressed.pdf"
+        },
+        {
+          "model": "OC200",
+          "title": "Hardware Controlador Omada",
+          "specs": [
+            "2× Porta Ethernet 10/100 Mbps",
+            "Adaptador de alimentação 802.3af PoE ou Micro-USB",
+            "Gerenciamento centralizado para APs, switches e roteadores",
+            "Acesso à nuvem",
+            "Até 130 dispositivos"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/OC200_Overview_01_normal_20211203082639n.jpg",
+            "https://static.tp-link.com/upload/image-line/OC200_Overview_02_normal_20211203082647v.jpg",
+            "https://static.tp-link.com/upload/image-line/OC200_Overview_03_normal_20211203082656t.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-controller-hardware/oc200/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202411/20241114/Controller%20Datasheet_compressed.pdf"
+        }
+      ]
+    },
+    "controlador_software": {
+      "products": [
+        {
+          "model": "Omada Software Controller",
+          "title": "Software Controlador Omada",
+          "specs": [
+            "Gerenciamento Centralizado para APs, Switches e Roteadores",
+            "Acesso à Nuvem",
+            "Até 10,000 Dispositivos",
+            "Monitoramento em Tempo Real",
+            "Painel de Fácil Utilização"
+          ],
+          "thumbnails": [
+            "https://static.tp-link.com/upload/image-line/Omada_Software_Controller_V4.0_1_normal_20211203074232y.jpg",
+            "https://static.tp-link.com/upload/image-line/Omada_Software_Controller_V4.0_2_normal_20211203074241d.jpg",
+            "https://static.tp-link.com/upload/image-line/Omada_Software_Controller_V4.0_3_normal_20211203074250c.jpg"
+          ],
+          "product_url": "https://www.tp-link.com/br/business-networking/omada-controller-cloud-software/omada-software-controller/",
+          "datasheet_url": "https://static.tp-link.com/upload/product-overview/2024/202410/20241025/Omada%20Software%20Controller_Datasheet_BR%203.pdf"
         }
       ]
     }
