@@ -75,6 +75,7 @@ class Scraper:
         categories_data[f'{category.text.replace(' ', '_').lower()}'] = category_data
 
       self.output_data[f'{target_page['name']}'] = categories_data
+      self.output_data[f'{target_page['name']}']['url'] = target_page['url']
 
     if os.path.exists(configs.OUTPUT_FILE_NAME):
       os.system(f'rm -rf {configs.OUTPUT_FILE_NAME}')

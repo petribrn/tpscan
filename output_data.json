@@ -1,5 +1,6 @@
 {
   "access_points": {
+    "url": "https://www.tp-link.com/br/business-networking/all-omada-wifi/",
     "access_points_de_teto": {
       "products": [
         {
@@ -337,6 +338,7 @@
     }
   },
   "switches": {
+    "url": "https://www.tp-link.com/br/business-networking/all-omada-switch/",
     "switches_l3/l2+_gerenciável": {
       "products": [
         {
@@ -1652,6 +1654,7 @@
     }
   },
   "routers": {
+    "url": "https://www.tp-link.com/br/business-networking/all-omada-router/",
     "roteadores_cabeados": {
       "products": [
         {
@@ -1757,6 +1760,7 @@
     }
   },
   "controllers": {
+    "url": "https://www.tp-link.com/br/business-networking/all-omada-controller/",
     "controlador_baseado_em_nuvem": {
       "products": [
         {
